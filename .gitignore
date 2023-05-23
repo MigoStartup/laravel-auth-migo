@@ -41,6 +41,8 @@ yarn.lock
 /public/hot
 /public/storage
 /storage/*.key
+*.priv
+*.pub
 /vendor
 /storage/debugbar
 /storage/framework
